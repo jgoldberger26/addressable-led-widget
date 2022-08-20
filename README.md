@@ -2,12 +2,12 @@
 
 A simple widget that displays an LED strip in shuffleboard
 
-<img src="https://user-images.githubusercontent.com/87028711/185767979-16431206-b3c5-49f0-a49b-4aa474467316.gif" width="200" />
+<img src="https://user-images.githubusercontent.com/87028711/185767979-16431206-b3c5-49f0-a49b-4aa474467316.gif" width="400" />
 
 
 ## Installation
 
-Put [this jar](src=https://github.com/jgoldberger26/addressable-led-widget/releases/download/v1.0.0/addressable-led-widget.jar width=200) into your Shuffleboard/plugins directory
+Put [this jar](https://github.com/jgoldberger26/addressable-led-widget/releases/download/v1.0.0/addressable-led-widget.jar) into your Shuffleboard/plugins directory
 
 > **Note**
 > 
