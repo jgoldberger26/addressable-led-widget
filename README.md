@@ -2,13 +2,15 @@
 
 A simple widget that displays an LED strip in shuffleboard
 
-![Example Screenshot](TODO)
+<img src="https://user-images.githubusercontent.com/87028711/185767979-16431206-b3c5-49f0-a49b-4aa474467316.gif" width="200" />
+
 
 ## Installation
 
-Put [this jar](TODO) into your Shuffleboard/plugins directory
+Put [this jar](src=https://github.com/jgoldberger26/addressable-led-widget/releases/download/v1.0.0/addressable-led-widget.jar width=200) into your Shuffleboard/plugins directory
 
 > **Note**
+> 
 > This directory should have been created by shuffleboard.
 > Its default location is {{userhome}}/Shuffleboard/plugins.
 
