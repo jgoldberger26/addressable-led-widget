@@ -9,6 +9,15 @@
 plugins {
     id 'java-library'
     id 'org.openjfx.javafxplugin' version '0.0.13'
+    id "org.sonarqube" version "3.4.0.2513"
+}
+
+sonarqube {
+  properties {
+    property "sonar.projectKey", "jgoldberger26_addressable-led-widget"
+    property "sonar.organization", "jgoldberger26"
+    property "sonar.host.url", "https://sonarcloud.io"
+  }
 }
 
 javafx {
